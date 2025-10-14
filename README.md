@@ -27,7 +27,7 @@ Use `pip` to install the required libraries:
 **Bash**
 
 ```
-pip install pandas openpyxl icalendar pytz
+pip install -r requirements.txt
 ```
 
 ## Usage 🚀
